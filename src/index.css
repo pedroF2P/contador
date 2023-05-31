@@ -1,0 +1,32 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-family: Arial, sans-serif;
+  background-color: gray;
+}
+
+h1 {
+  font-size: 48px;
+  margin-bottom: 30px;
+ 
+}
+
+.container {
+  text-align: center;
+}
+
+.counter {
+  font-size: 72px;
+  margin-bottom: 20px;
+  
+}
+
+.button {
+  display: inline-block;
+  padding: 10px 20px;
+  font-size: 24px;
+  margin: 0 10px;
+  cursor: pointer;
+}
